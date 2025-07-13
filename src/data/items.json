@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Kibble",
+    "price": 10.99,
+    "imgUrl": "/imgs/kibble.png"
+  },
+  {
+    "id": 2,
+    "name": "Treats",
+    "price": 11.99,
+    "imgUrl": "/imgs/treats.png"
+  },
+  {
+    "id": 3,
+    "name": "Bowl",
+    "price": 5.05,
+    "imgUrl": "/imgs/bowl.png"
+  },
+  {
+    "id": 4,
+    "name": "Leash",
+    "price": 14.00,
+    "imgUrl": "/imgs/leash.png"
+  }
+]
